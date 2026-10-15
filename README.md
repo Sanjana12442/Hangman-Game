@@ -7,6 +7,7 @@ Hangman is a classic word-guessing game. In this version, the computer randomly 
 
 # Features
 Randomly selects a word from a list of five words.
+
 Allows the player to guess one letter at a time.
 Displays correctly guessed letters and hidden letters.
 Tracks previously guessed letters and incorrect attempts.
