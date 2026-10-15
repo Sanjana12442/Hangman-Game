@@ -1,6 +1,6 @@
 # Hangman-Game
 A simple Hangman game made using Python where players try to guess a hidden word one letter at a time. This project helped me practice basic Python concepts like loops, conditions, strings, lists, and random selection.
-🎮 Hangman Game Using Python
+
 About the Project
 
 I created this Hangman game as a beginner Python project to practice the basics of programming. It's a simple word-guessing game where the computer picks a random word, and the player has to guess it one letter at a time.
