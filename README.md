@@ -9,31 +9,48 @@ Hangman is a classic word-guessing game. In this version, the computer randomly 
 Randomly selects a word from a list of five words.
 
 Allows the player to guess one letter at a time.
+
 Displays correctly guessed letters and hidden letters.
+
 Tracks previously guessed letters and incorrect attempts.
+
 Allows a maximum of six incorrect guesses.
+
 Checks for repeated letters and invalid input.
+
 Displays a message when the player wins or loses.
 
 # Technologies Used
 Python 3
+
 Random module
+
 While loops
+
 If-else statements
+
 Strings and lists
 
 # How to Run the Game
 Make sure Python 3 is installed on your computer.
+
 Clone this repository or download the project files.
+
 Open the project folder in your terminal.
+
 Run the following command:
    python hangman.py
 
 
 # How to Play
 Start the program.
+
 The computer will select a secret word.
+
 Enter one alphabet letter when prompted.
+
 If the letter is correct, it will appear in the word.
+
 If the letter is incorrect, your incorrect guess count will increase.
+
 Guess the complete word before reaching six incorrect guesses to win.
